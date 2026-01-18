@@ -6,7 +6,7 @@ Then edit the .bashrc file:
 `nano ~/.bashrc`
 
 Add following line:
-`alias matrix="neo --charset=ascii --color=red --colorfile=$HOME/neo/examples/colorfile1.txt"`
+`alias matrix="neo --charset=ascii --color=purple --colorfile=$HOME/neo/examples/colorfile1.txt"`
 
 Now edit the color file
 `nano ~/neo/examples/colorfile1.txt`
