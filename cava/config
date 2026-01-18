@@ -1,0 +1,20 @@
+[general]
+bars = 34
+framerate = 60
+autoreset = true
+foreground = #FFFFFF
+background = #000000
+
+[smoothing]
+; mellan varje frame
+type = window
+strength = 0.5
+
+[colors]
+color0 = 184,108,235
+color1 = 196,128,240
+color2 = 208,148,245
+color3 = 220,168,250
+color4 = 232,188,255
+color5 = 244,224,255
+color6 = 255,255,255
