@@ -4,9 +4,9 @@ format = """
 [](surface0)\
 $os\
 $username\
-[](bg:purple fg:surface0)\
+[](bg:red fg:surface0)\
 $directory\
-[](fg:purple)\
+[](fg:red)\
 $line_break$character"""
 
 palette = 'catppuccin_mocha'
@@ -83,7 +83,7 @@ style_root = "bg:surface0 fg:text"
 format = '[ $user ]($style)'
 
 [directory]
-style = "fg:crust bg:purple"
+style = "fg:crust bg:red"
 format = "[ $path ]($style)"
 truncation_length = 3
 truncation_symbol = "…/"
