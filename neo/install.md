@@ -16,7 +16,7 @@ The text should look like this:
 neo_color_version 1
 
 bg=NONE
-200 # foreground
+160 # foreground
 231 # bottom of droplet
 ```
 
